@@ -15,7 +15,7 @@
 - [Eduardo](https://github.com/edubenites77)
 - [Giovanni](https://github.com/kklai1)
 - [Heitor](https://github.com/totifirmino42-lang)
-- [Vinicius](https://github.com/viniblandinooo)
+- [Vinicius](https://github.com/viniiblandinoo)
 
 ## Objetivos do Projeto
 
